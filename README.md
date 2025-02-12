@@ -52,5 +52,5 @@ Then, open `http://localhost:8000` in your browser.
 This project is open-source and free to use for educational purposes.
 
 ## Author
-[Salsabila Niarno]
+`Salsabila Niarno`
 
