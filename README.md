@@ -29,7 +29,7 @@ git clone https://github.com/yourusername/travel-landing-page.git
 
 ### 2. Open the Project Folder
 ```sh
-cd travel-landing-page
+cd simple-fe
 ```
 
 ### 3. Open the `index.html` File in a Browser
