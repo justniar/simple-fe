@@ -4,3 +4,16 @@
     object-fit: cover;
 }
 
+.places{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.subtitle{
+    width: 100%;
+    margin: 20px;
+    text-align: center;
+    color: rgb(53, 162, 212);
+}
